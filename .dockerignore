@@ -28,5 +28,5 @@ build
 Thumbs.db
 
 # Ignore Docker-related files that don't need to be copied
-Dockerfile
+
 .dockerignore
